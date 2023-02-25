@@ -23,7 +23,7 @@ require (
 	github.com/xeipuuv/gojsonschema v0.0.0-20170210233622-6b67b3fab74d
 	golang.org/x/net v0.0.0-20210405180319-a5a99cb37ef4
 	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c
-	golang.org/x/sys v0.0.0-20210510120138-977fb7262007
+	golang.org/x/sys v0.1.0
 	golang.org/x/text v0.3.5 // indirect
 )
 
